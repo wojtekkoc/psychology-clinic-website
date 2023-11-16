@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Circle" clip-path="url(#clip0_23_1123)">
+<mask id="mask0_23_1123" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="-1" width="80" height="81">
+<g id="clippath">
+<path id="Vector" d="M40 79.9995C62.0914 79.9995 80 62.0909 80 39.9995C80 17.9081 62.0914 -0.000488281 40 -0.000488281C17.9086 -0.000488281 0 17.9081 0 39.9995C0 62.0909 17.9086 79.9995 40 79.9995Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_23_1123)">
+<path id="Vector_2" d="M-20.084 46.2736L45.3957 -19.2061M-14.0766 52.281L51.4031 -13.1987M-8.06919 58.2884L57.4105 -7.19126M-2.07165 64.2859L63.408 -1.19372M3.93574 70.2933L69.4154 4.81367M9.94314 76.3007L75.4228 10.8211M15.9505 82.3081L81.4203 16.8186M21.9481 88.3057L87.4277 22.826M27.9555 94.3131L93.4351 28.8334M33.9629 100.32L99.4327 34.8408" stroke="#CDB1A0" stroke-width="2" stroke-miterlimit="10"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_23_1123">
+<rect width="80" height="80" fill="white"/>
+</clipPath>
+</defs>
+</svg>
