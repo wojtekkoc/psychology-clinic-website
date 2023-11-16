@@ -7,3 +7,5 @@ The repository contains the source code for the graphic design, which was provid
 - CSS
 - JavaScript
 - PHP
+
+![Desktop page view](images/sc-desktop.png)
