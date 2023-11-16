@@ -9,3 +9,7 @@ The repository contains the source code for the graphic design, which was provid
 - PHP
 
 ![Desktop page view](images/sc-desktop.png)
+
+![Tablet page view](images/sc-tablet.png)
+
+![Mobile page view](images/sc-mobile.png)
