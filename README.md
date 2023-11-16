@@ -8,8 +8,11 @@ The repository contains the source code for the graphic design, which was provid
 - JavaScript
 - PHP
 
+### Desktop page view
 ![Desktop page view](images/sc-desktop.png)
 
+### Tablet page view
 ![Tablet page view](images/sc-tablet.png)
 
+### Mobile page view
 ![Mobile page view](images/sc-mobile.png)
