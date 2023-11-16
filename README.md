@@ -1,8 +1,8 @@
 # psychology-clinic-website
 
-Repozytorium zawiera kod źródłowy projektu graficznego, który został dostarczony przez agencję reklamową w Figmie. Celem projektu było w pełni responsywne odwzorowanie interfejsu. Projekt został zoptymalizowany pod kątem różnych urządzeń, zapewniając elastyczność i spójność wizualną na wszystkich ekranach. 
+The repository contains the source code for the graphic design, which was provided by an advertising agency in Figma. The goal of the project was a fully responsive representation of the interface. The design was optimized for different devices, ensuring flexibility and visual consistency across all screens. 
 
-### Technologie użyte:
+### Technologies used:
 - HTML
 - CSS
 - JavaScript
